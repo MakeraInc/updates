@@ -1,7 +1,7 @@
 Notice: 
 To work perfectly with CHITUBOX Basic, you should install at least the minimum supported version of firmware for your printer. Clickhttps://www.chitubox.com/en/download/chitubox-free to view and download the firmware. You can take a look at this tutorial（https://www.chitubox.com/en/article/support/howto/chitubox-pro/install-activate/how-to-update-your-printer-firmware） to know how to update firmware.
 
-[1.0.0]
+[0.9.1]
 
 1.Machine adjustments
 1)Added the Flashforge Foto 6.0 machine
